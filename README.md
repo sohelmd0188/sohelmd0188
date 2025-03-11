@@ -2,9 +2,7 @@
   <h1 class="animated-text" align="center"> 🚀 Hi, I'm Mohammad Sohel </h1>
   <h3 align="center"> An Electrical and Electronics Engineer and Researcher</h3>
 
-  <p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohelmd0188" alt="sohelmd0188" /></a> 
-  </p>
+
 
   <div align="center">  
     <a href="https://linkedin.com/in/mohammad-sohel-94785421b/">
@@ -33,7 +31,7 @@
     🔹 Researching Hydrogen-based Energy Systems <br>  
     🔹 Industrial Automation (PLC, VFD, HMI, MCC, RLC Circuits) <br>   
     🔹 Passionate about: Sustainable Energy, Automation, and Project Management <br>  
-    🔹 Skilled in front-end development and WordPress.
+    🔹 Skilled in front-end development and WordPress <br>
     🔹 Intern at: PDA Aspire Internship Program <br><br>  
 
     🌱 **Current Projects:**  

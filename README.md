@@ -2,9 +2,6 @@
   <h1 class="animated-text" align="center"> 🚀 Hi, I'm Mohammad Sohel </h1>
   <h3 align="center"> An Electrical and Electronics Engineer and Researcher</h3>
 
-<img align="center" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExengzeXFhcjRwazFxMTZ4azcxajFhazYyOG5ndDJmeGYzcmhtczRrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/APXTVQpsOIqJRlxnny/giphy.gif" />
-
-
   <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohelmd0188" alt="sohelmd0188" /></a> 
   </p>
